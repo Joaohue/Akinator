@@ -1,5 +1,5 @@
 # Akinator
-<br /> <br />
+<br />
 Nesse projeto, criado na Universidade São Francisco na disciplina de Programação orientada a objetos, será apresentado um jogo de perguntas e respostas semelhante ao já conhecido "Akinator".
 <br /> <br />
 Nomes dos desenvolvedores: <br />
